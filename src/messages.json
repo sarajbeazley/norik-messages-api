@@ -1,0 +1,36 @@
+{
+  "Messages": [
+    {
+      "content": "'No', says Tom Kennedy",
+      "author": "Tom K",
+      "heard": true
+    },
+    {
+      "content": "Good Morning, Good Afternoon, Good Evening, Good Night!",
+      "author": "Hamza AK",
+      "heard": false
+    },
+
+    {
+        "content": "What's up bro, where's Julian?",
+        "author": "Norik",
+        "heard": true
+      },
+      {
+        "content": "Trust the process..",
+        "author": "Sara",
+        "heard": false
+      },
+
+      {
+        "content": "All good, just chilling",
+        "author": "Mantas",
+        "heard": true
+      },
+      {
+        "content": "Excuse me, is it ok for me to ask a question?",
+        "author": "Isabella",
+        "heard": false
+      }
+  ]
+}
